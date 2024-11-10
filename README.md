@@ -20,6 +20,6 @@ I'm a passionate web developer and a student based in the beautiful island of Ba
 
 ## GitHub Stats
 
-[![Novanaa](https://github-readme-stats.vercel.app/api?username=Novanaa&show_icons=true&theme=radical)](https://github.com/Novanaaa)
+[![Novanaa](https://github-readme-stats.vercel.app/api?username=Novanaaa&show_icons=true&theme=radical)](https://github.com/Novanaaa)
 
 Feel free to explore my repositories and reach out! Let's connect and learn together. 😊
