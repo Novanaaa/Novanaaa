@@ -15,7 +15,7 @@ I'm a passionate web developer and a student based in the beautiful island of Ba
 
 ## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=%23fff&labelColor=black)](https://github.com/Novanaa)
+[![GitHub](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=%23fff&labelColor=black)](https://github.com/Novanaaa)
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=%23fff&labelColor=black)](https://www.instagram.com/novaa.sh)
 
 ## GitHub Stats
